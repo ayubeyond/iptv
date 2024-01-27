@@ -1,6 +1,6 @@
 # iptv
-# 自用 转自
-# Ftindy精选 youshandefeiyang
+# 自用 转自  youshandefeiyang
+# Ftindy精选 
 https://live.freetv.top/huyayqk.m3u    虎牙一起看
 
 https://live.freetv.top/douyuyqk.m3u    斗鱼一起看
